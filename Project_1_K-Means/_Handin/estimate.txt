@@ -1,0 +1,14 @@
+COIL20:
+The RI estimate: 0.961975909196201
+The ARI estimate: 0.6334067065126757
+The accuracy: 0.7472222222222222
+
+Yale_32x32:
+The RI estimate: 0.90339985218034
+The ARI estimate: 0.24116006060863535
+The accuracy: 0.3090909090909091
+
+data_batch_1:
+The RI estimate: 0.8120950495049505
+The ARI estimate: 0.04130807931248312
+The accuracy: 0.0912
